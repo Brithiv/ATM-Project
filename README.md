@@ -13,7 +13,7 @@ A simple ATM system that allows users to perform basic banking operations such a
 - **Language**: Python.
 - **Environment**: PyCharm
 
-## 🚀 How to Run
+## 🚀 Video Section
 
 
  

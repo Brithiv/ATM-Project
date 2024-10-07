@@ -15,6 +15,6 @@ A simple ATM system that allows users to perform basic banking operations such a
 
 ## 🚀 How to Run
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YourUsername/atm-project.git
+
+ 
+https://github.com/user-attachments/assets/0dde4887-8c3c-4848-9b50-3c2f86d36e39
